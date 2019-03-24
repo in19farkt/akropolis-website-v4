@@ -8,7 +8,7 @@ export default {
     },
     kycIntro: {
       title: 'Akropolis KYC procedure',
-      subtitle: 'Thank you for participating the Akropolis campaign. To start KYC procedure please continue by pressing the button below.',
+      subtitle: 'Thank you for participating in the Akropolis campaign. To start KYC procedure please continue by pressing the button below.',
       startButton: 'Start KYC',
     },
     products: {
