@@ -26,7 +26,7 @@ function Footer(props: IProps & StylesProps) {
             <LogoWithNameIcon fontSize="inherit" />
           </Link>
           <p className={classes.description}>
-            {t(tKeys.sections.intro.title.getKey())}
+            {t(tKeys.sections.homeIntro.title.getKey())}
           </p>
         </div>
         <div className={cn(classes.column, classes.right)}>

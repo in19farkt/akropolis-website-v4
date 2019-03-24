@@ -34,6 +34,10 @@ const menuItems: IMenuItem[] = [
     title: 'Events',
   },
   {
+    path: routes.kyc.getRoutePath(),
+    title: 'KYC',
+  },
+  {
     path: privacyPolicyURL,
     title: 'Privacy Policy',
     isExternal: true,

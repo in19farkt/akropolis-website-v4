@@ -21,6 +21,10 @@ export const menuItems: IMenuItem[] = [
     title: 'Events',
   },
   {
+    path: routes.kyc.getRoutePath(),
+    title: 'KYC',
+  },
+  {
     path: 'https://medium.com/akropolis',
     title: 'Blog',
     isExternal: true,

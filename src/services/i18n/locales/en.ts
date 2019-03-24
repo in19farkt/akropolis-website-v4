@@ -2,9 +2,14 @@
 export default {
   modules: {},
   sections: {
-    intro: {
+    homeIntro: {
       title: 'Unlocking the potential of informal economy with DeFi',
       subtitle: 'We build products that help people save, grow and scale',
+    },
+    kycIntro: {
+      title: 'Akropolis KYC procedure',
+      subtitle: 'Thank you for participating the Akropolis campaign. To start KYC procedure please continue by pressing the button below.',
+      startButton: 'Start KYC',
     },
     products: {
       hackathon0x: {

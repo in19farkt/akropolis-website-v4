@@ -81,6 +81,11 @@ const styles = (theme: Theme) => {
         fontSize: 36,
       },
     }),
+
+    actions: rule({
+      margin: `0 auto auto`,
+      paddingTop: theme.spacing.unit,
+    }),
   };
 };
 
